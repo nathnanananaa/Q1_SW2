@@ -1,0 +1,31 @@
+#container1{
+    background-color: #d6ccc2;
+    text-align: center;
+}
+
+.container2{
+    background-color: #f6ece1;
+    width: 450px;
+    padding: 25px;
+    margin: auto;
+    text-align: left;
+    box-shadow: 4px 4px 10px rgba(214,204,194,255);
+    border-radius: 40px;
+    text-align: center;
+}
+
+body{
+    background-image: url('https://marketplace.canva.com/EAFw77ihYd8/1/0/1600w/canva-beige-abstract-shapes-desktop-wallpaper-ZRVj2MUZRxY.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+#submit{
+    cursor: pointer;
+}
+
+label{
+    font-size: 20px;
+    font-family: monospace;
+}
